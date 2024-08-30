@@ -8,12 +8,10 @@ This project involves the development of a versatile parser designed to extract 
 
 ## Project Structure
 
-- **`parser.py`**: The core Python script that contains the parsing logic used to extract EPS data from the HTML files.
 - **`main.ipynb`**: A Jupyter Notebook that walks through the entire process of setting up, running, and testing the parser, including code examples and explanations.
-- **`output.csv`**: The generated CSV file containing the filename and the extracted EPS values for each filing.
+- **`results.csv`**: The generated CSV file containing the filename and the extracted EPS values for each filing.
 - **`Training_Filings/`**: A directory containing the 50 example HTML files used for testing the parser.
 - **`README.md`**: This file, providing an overview of the project, instructions for use, and additional details.
-- **`requirements.txt`**: Lists all Python dependencies required to run the parser.
 
 ## Features
 
